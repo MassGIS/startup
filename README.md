@@ -9,4 +9,4 @@ Click on each node to see the nodes it is linked to.
 
 Search some predefined hashtags in the search menu.
 
-This is a example, i.e. not a final version or draft.
+This is an example, not a final version or draft.
